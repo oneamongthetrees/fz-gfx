@@ -12,6 +12,9 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/69165e16-ea97-479a-b
 ## Dancing Surge
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/d9e14167-c6be-4c79-be42-5d2d92e09c6b
 
+## Nucleo Strand
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/58f289f7-d3a6-4441-9cd5-862c960f4fb1
+
 
 
 
