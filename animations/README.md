@@ -1,7 +1,7 @@
 # Flipper Zero - Animations
 ---
 ## Abstract Donut
-https://github.com/oneamongthetrees/fz-gfx/assets/140353728/c06f3a3a-5eb6-4ccc-b476-1e86df9948c7
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/43d74435-23c1-4502-8779-21003a4f97a3
 ###### Art credit: **[T.D. Hooper](https://instagram.com/@tdhpr)**
 
 ## Blinking Eye
