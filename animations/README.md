@@ -20,7 +20,9 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/d9e14167-c6be-4c79-b
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/58f289f7-d3a6-4441-9cd5-862c960f4fb1
 ###### Art credit: **[Doze Studio](https://instagram.com/doze_studio)**
 
-
+## Abstract Wave
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/0e7a01f6-0db0-4ea8-8b33-aed9774b90e9
+###### Art credit: **[xpotentialdesign](https://www.instagram.com/xponentialdesign/?hl=en)**
 
 
 
