@@ -35,3 +35,9 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/6d99f9c0-c200-467a-9
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/62f2c645-c260-40c7-a67d-12b5db159a5d
 ###### Art credit: **[Hoppip](https://giphy.com/hoppip)**
 
+## Hole Face
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/2863b94b-fc57-4c18-8fea-e5ef18a12241
+###### Art credit: **[Gello Hoodbye](https://www.instagram.com/gello_hoodbye/)**
+
+
+
