@@ -9,7 +9,7 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/50723f29-a996-4a70-a
 ###### Art credit: **[Mattis Dovier](https://mattisdovier.tumblr.com)**
 
 ## Leaping Frogs
-https://github.com/oneamongthetrees/fz-gfx/assets/140353728/69165e16-ea97-479a-bb42-593eaa1d6aed
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/6aa7fa20-2950-4ab4-af0c-1ebb80f459ec
 ###### Art credit: **[Steven Kraan](https://instagram.com/stevenkraan)**
 
 ## Dancing Surge
