@@ -24,5 +24,6 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/58f289f7-d3a6-4441-9
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/0e7a01f6-0db0-4ea8-8b33-aed9774b90e9
 ###### Art credit: **[xpotentialdesign](https://www.instagram.com/xponentialdesign/?hl=en)**
 
-
-
+## Abstract Grid
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/32624fae-7e93-4a9d-a58f-4b6b91ed2174
+##### Art credit: **[Pi Slices]([https://instagram.com/pislices)**
