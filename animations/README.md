@@ -39,5 +39,10 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/62f2c645-c260-40c7-a
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/2863b94b-fc57-4c18-8fea-e5ef18a12241
 ###### Art credit: **[Gello Hoodbye](https://www.instagram.com/gello_hoodbye/)**
 
+## Smile Spin
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/7a0633af-2190-44c5-9afe-67c8e872b7b4
+
+
+
 
 
