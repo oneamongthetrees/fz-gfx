@@ -22,7 +22,7 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/58f289f7-d3a6-4441-9
 
 ## Abstract Wave
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/0e7a01f6-0db0-4ea8-8b33-aed9774b90e9
-###### Art credit: **[xpotentialdesign](https://www.instagram.com/xponentialdesign/?hl=en)**
+###### Art credit: **[Xpotentialdesign](https://www.instagram.com/xponentialdesign/?hl=en)**
 
 ## Abstract Grid
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/32624fae-7e93-4a9d-a58f-4b6b91ed2174
@@ -30,4 +30,8 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/32624fae-7e93-4a9d-a
 
 ## Morph Surface
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/6d99f9c0-c200-467a-980f-a87d380ab911
-###### Art credit: **[]()**
+
+## Coffee Cat
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/62f2c645-c260-40c7-a67d-12b5db159a5d
+###### Art credit: **[Hoppip](https://giphy.com/hoppip)**
+
