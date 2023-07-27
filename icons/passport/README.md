@@ -11,7 +11,6 @@
 #### Bad
 ![doomguy-bad-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/b7988deb-90f7-40e9-b63f-05593bc54292)
 
-===
 ## Resident Evil
 
 #### Zombie (Far)
