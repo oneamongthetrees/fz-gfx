@@ -21,3 +21,11 @@
 
 #### Monster
 ![re-monster-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/f3262ca8-a2b5-434c-b193-ec2b96d23d62)
+
+## Miscellaneous
+
+#### Astronaut
+![misc-astronaut-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/8575318f-a108-4892-8b03-9546efa39763)
+
+#### Octopus
+![misc-octopus-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/27518eac-98f3-4734-a93b-bffc81fd6af4)
