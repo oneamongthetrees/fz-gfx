@@ -29,3 +29,6 @@
 
 #### Octopus
 ![misc-octopus-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/27518eac-98f3-4734-a93b-bffc81fd6af4)
+
+#### Stalker
+![misc-stalker-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/e33129bf-335e-4dc7-a531-7235d1e088bb)
