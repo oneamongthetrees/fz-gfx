@@ -22,6 +22,16 @@
 #### Monster
 ![re-monster-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/f3262ca8-a2b5-434c-b193-ec2b96d23d62)
 
+## Television
+#### Fry
+![tv-fry-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/5ba1aa14-2a80-423a-9fd1-8f6b0736b461)
+
+#### Bender
+![tv-bender-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/14590c75-e007-4ba2-ada0-d2ce9ef553de)
+
+#### Hank Hill
+![tv-hank-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/3a179aba-e246-4e9d-923d-933a04110416)
+
 ## Miscellaneous
 
 #### Astronaut
