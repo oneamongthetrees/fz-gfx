@@ -40,6 +40,9 @@
 #### Astronaut
 ![misc-astronaut-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/8575318f-a108-4892-8b03-9546efa39763)
 
+#### Cool Cat
+![misc-coolcat-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/2799bda5-802d-47b1-aea8-42ab73949bdd)
+
 #### Octopus
 ![misc-octopus-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/27518eac-98f3-4734-a93b-bffc81fd6af4)
 
