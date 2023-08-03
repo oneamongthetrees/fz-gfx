@@ -34,6 +34,9 @@
 
 ## Miscellaneous
 
+#### Alien
+![misc-alien-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/a6b3e0cd-f465-4869-a7ed-68274a2ae972)
+
 #### Astronaut
 ![misc-astronaut-ex](https://github.com/oneamongthetrees/fz-gfx/assets/140353728/8575318f-a108-4892-8b03-9546efa39763)
 
