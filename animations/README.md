@@ -46,6 +46,11 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/7a0633af-2190-44c5-9
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/7765d7df-1569-4b58-b71b-7a7389f915f9
 ###### Art credit: **[Mattis Dovier](https://mattisdovier.tumblr.com)**
 
+## Glitch Skull
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/74293f1a-da83-45a3-9380-8c17b800cece
+
+
+
 
 
 
