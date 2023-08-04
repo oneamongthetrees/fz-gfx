@@ -43,7 +43,7 @@ https://github.com/oneamongthetrees/fz-gfx/assets/140353728/2863b94b-fc57-4c18-8
 https://github.com/oneamongthetrees/fz-gfx/assets/140353728/7a0633af-2190-44c5-9afe-67c8e872b7b4
 
 ## Night Moon
-https://github.com/oneamongthetrees/fz-gfx/assets/140353728/7765d7df-1569-4b58-b71b-7a7389f915f9
+https://github.com/oneamongthetrees/fz-gfx/assets/140353728/789907fb-e073-4bc6-896e-9dd4a8163c29
 ###### Art credit: **[Mattis Dovier](https://mattisdovier.tumblr.com)**
 
 ## Glitch Skull
